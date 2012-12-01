@@ -1,6 +1,6 @@
 // Full Color LED fader 
 // Written by Dain Unicorn based on code by EgoPlast 
-
+// Edited by Mihir
 
 int RedLED = 9; 
 int BluLED = 6;
