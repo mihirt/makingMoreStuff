@@ -1,7 +1,7 @@
  
 /*
   LED Game
-  By: Mihir Trivedi
+  By: iluvplanes
   
 */  
   
